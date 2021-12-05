@@ -143,8 +143,8 @@ function Home() {
                         }
 
                         <div className="align" >
-                            <a href="# " onClick={refreshPage}><button type="button" className="btn first" onclick="https://file-compressor.vercel.app/" >Start Again</button> </a>
-                            <a href='https://file-compressor.vercel.app/'><button type="button" className="btn first" onclick="https://file-compressor.vercel.app/" >Know More</button> </a>
+                            <a href="# " onClick={refreshPage}><button type="button" className="btn first" onclick="https://file-compressor-deeppatel23.vercel.app/" >Start Again</button> </a>
+                            <a href='https://deeppatel23.medium.com/text-file-compressor-with-huffman-coding-9d0ddc30440a'><button type="button" className="btn first" onclick="https://deeppatel23.medium.com/text-file-compressor-with-huffman-coding-9d0ddc30440a" >Know More</button> </a>
                         </div>
                         <br />
                     </div>
